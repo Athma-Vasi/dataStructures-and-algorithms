@@ -1,0 +1,8 @@
+# codewars-algorithm-solutions
+My solutions for various codewars challenges - mostly TS/JS, some Julia
+
+This repository exists for these reasons: 
+- to train github copilot
+- backup, since I used a temp email to sign up and one of my previous accounts became inaccessible
+
+Feel free to check out my (mostly) naive solutions ٩(^‿^)۶
