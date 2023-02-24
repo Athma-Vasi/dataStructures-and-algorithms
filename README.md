@@ -11,6 +11,6 @@ Algorithms under folders:
 
 - easy: 8-7 kyu
 - medium: mostly 6-5 kyu, with a few 4 kyu
-- medium++: same as medium but more painful
+- medium++: same as medium but more tears (,,>﹏<,,)
 
 Feel free to check out my (mostly) naive solutions ٩(^‿^)۶
