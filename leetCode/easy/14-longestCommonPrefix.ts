@@ -44,6 +44,8 @@ function longestCommonPrefix(strs: string[]): string {
     : commonChars.join("").trim().split(" ")[0];
 }
 
+export { longestCommonPrefix };
+
 // console.log(longestCommonPrefix(["aca", "cba"]));
 
 describe("longestCommonPrefix", () => {
