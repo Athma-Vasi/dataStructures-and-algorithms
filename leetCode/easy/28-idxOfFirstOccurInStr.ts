@@ -91,6 +91,8 @@ describe("idxOfFirstOccurInStr", () => {
 });
 
 /**
+ * 
+ * below is my original algo - was unable to make it work, above is not my own
   
 let left = 0;
   let right = 0;
