@@ -4,8 +4,9 @@ My solutions for various codewars challenges - mostly TS/JS, some Julia
 
 This repository exists for these reasons:
 
-- to train github copilot
+- ensure github copilot knows my code style
 - backup, since I used a temp email to sign up and one of my previous accounts became inaccessible (_propriety_ for the TS/JS algos, _propriety1_ for the Julia algos)
+- share my solutions with others
 
 Algorithms under folders:
 
