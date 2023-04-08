@@ -1,6 +1,6 @@
 # codewars-algorithm-solutions
 
-My solutions for various codewars challenges - mostly TS/JS, some Julia
+My solutions for various codewars, leetcode challenges - mostly TS/JS, some Julia
 
 This repository exists for these reasons:
 
@@ -10,8 +10,9 @@ This repository exists for these reasons:
 
 Algorithms under folders:
 
-- easy: 8-7 kyu
-- medium: mostly 6-5 kyu, with a few 4 kyu
-- medium++: same as medium but more tears (,,>﹏<,,)
+- codewars
+  - easy: 8-7 kyu
+  - medium: mostly 6-5 kyu, with a few 4 kyu
+  - medium++: same as medium but more tears (,,>﹏<,,)
 
 Feel free to check out my (mostly) naive solutions ٩(^‿^)۶
