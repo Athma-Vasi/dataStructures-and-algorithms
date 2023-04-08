@@ -31,7 +31,6 @@ function validParentheses(s: string): boolean {
         // if char is a closing parens
         if (closingParens.has(char)) {
           const complementParen = parensMap.get(char);
-
           if (stack.at(-1) !== complementParen) acc = false;
         }
 
