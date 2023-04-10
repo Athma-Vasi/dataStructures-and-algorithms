@@ -1,10 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.182.0/testing/asserts.ts";
-import {
-  describe,
-  it,
-  beforeEach,
-  afterEach,
-} from "https://deno.land/std@0.182.0/testing/bdd.ts";
+import { describe, it } from "https://deno.land/std@0.182.0/testing/bdd.ts";
 
 function longestCommonPrefix(strs: string[]): string {
   if (strs.length === 0) return "";
