@@ -24,4 +24,18 @@ function rearrangeArrayElementsBySign(nums::Array{Int64,1})
   return nums
 end
 
-println(rearrangeArrayElementsBySign([3, 1, -2, -5, 2, -4]))
+
+export rearrangeArrayElementsBySign
+
+using Test
+
+Test.@testset "rearrangeArrayElementsBySign" begin
+  nums = [3, 1, -2, -5, 2, -4]
+  result = [3, -2, 1, -5, 2, -4]
+  Test.@test rearrangeArrayElementsBySign(nums) == result
+
+  nums = [-1, 1]
+  result = [1, -1]
+  Test.@test rearrangeArrayElementsBySign(nums) == result
+end
+
