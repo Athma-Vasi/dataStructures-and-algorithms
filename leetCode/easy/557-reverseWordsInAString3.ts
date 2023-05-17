@@ -44,8 +44,6 @@ function reverseWordsInAString3ii(s: string) {
     .join(" ");
 }
 
-console.log(reverseWordsInAString3ii("Let's take LeetCode contest"));
-
 describe("reverseWordsInAString3ii", () => {
   it("1. should reverse the words in a string", () => {
     const s = "Let's take LeetCode contest";
